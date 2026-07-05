@@ -29,5 +29,5 @@
 
 <p align="center">
   ✝️ <b>God loves you.</b><br>
-  <i>"For God so loved the world..." — John 3:16</i>
+  <sub>Stay humble. Keep learning. Never give up.</sub>
 </p>
