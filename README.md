@@ -24,3 +24,9 @@
 "Skill is forged in silence, honed in sweat, and guarded by those who respect the craft. What is truly earned cannot be stolen."
 “Love is the force that bends the world, the light that breaks the darkest nights, and the power that turns ordinary hearts into legends.”
 </i></p>
+
+---
+
+<p align="center">
+  ✝️ <b>God loves you.</b> 🤍
+</p>
