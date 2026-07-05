@@ -28,5 +28,6 @@
 ---
 
 <p align="center">
-  ✝️ <b>God loves you.</b> 🤍
+  ✝️ <b>God loves you.</b><br>
+  <i>"For God so loved the world..." — John 3:16</i>
 </p>
